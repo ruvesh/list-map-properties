@@ -1,0 +1,21 @@
+accounts:
+  admins:
+  - subRole: network admin
+    uName: abc123
+  - subRole: hardware admin
+    uName: abc124
+  - subRole: super admin
+    uName: abc125
+  - subRole: it admin
+    uName: abc126
+    
+servers:
+  hostMapping:
+    dev1: https://dev1.domain.ext
+    dev2: https://dev2.domain.ext
+    prod1: https://prod1.domain.ext
+    prod2: https://prod2.domain.ext
+    stage1: https://stage1.domain.ext
+    stage2: https://stage2.domain.ext
+    test1: https://test1.domain.ext
+    test2: https://test2.domain.ext

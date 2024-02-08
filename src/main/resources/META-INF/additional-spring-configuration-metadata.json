@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "servers.host-mapping.dev1",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.dev1'"
+  },
+  {
+    "name": "servers.host-mapping.dev2",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.dev2'"
+  },
+  {
+    "name": "servers.host-mapping.prod2",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.prod2'"
+  },
+  {
+    "name": "servers.host-mapping.prod1",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.prod1'"
+  },
+  {
+    "name": "servers.host-mapping.stage1",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.stage1'"
+  },
+  {
+    "name": "servers.host-mapping.stage2",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.stage2'"
+  },
+  {
+    "name": "servers.host-mapping.test1",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.test1'"
+  },
+  {
+    "name": "servers.host-mapping.test2",
+    "type": "java.lang.String",
+    "description": "A description for 'servers.host-mapping.test2'"
+  },
+  {
+    "name": "accounts.admins",
+    "type": "java.util.List",
+    "description": "A description for 'accounts.admins'"
+  }
+]}
